@@ -30,20 +30,7 @@ A python based user – friendly graphical interface that classifies input image
 ![Example Image](detection.png)
 **Note:** Any number of classifications can be performed, that is the program stops only when the windows are closed.
 
-**Team Details:**
-**- Members and contributions:**
-  - Sivasankari Srinath Thilagavathi – 122301037
-    - Data Collection and Labelling
-    - Model training and creation of the epoch500 .pth file
-    - Classification using the built model
-  - Jalagam Varshitha - 112301011:
-    - Proposal of Problem Statement
-    - Data Segregation
-    - Login Authentication using GUI
-  - Abothu Varsha - 112301002: 
-    - Data Labelling 
-    - Data segregation
-    - GUI for main window
+
    
   File Structure:
 - cde.py – source code
